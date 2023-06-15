@@ -88,6 +88,7 @@ def f(x):
    return(a*x-b*x**2)
 #Creación de la ventana del plano
 #Con la libreria de matplotlib
+#Explicación de la libreria de matplotlib en el ReadMe.md
 x=np.linspace(0,xmax,500)       
 #añadimos el subtitulo
 plt.suptitle("Evento fisico simulado: Tiro parabolico.",fontsize=20,color="blue")
