@@ -109,6 +109,22 @@ Por lo tanto, el proyectil tarda aproximadamente 2.65 segundos en alcanzar su al
 
 Al ejecutar el algoritmo realizado y poner los datos del problema o ejercicio 1 osea la velocidad inicial y los grados, el codigo genera los mismos datos o bastante similares a los resultados realizados con desarrollo, debido a que el algoritmo hace lo mismo, osea saca la altira maxima, el alcance maximo horizontal y algunos datos más debido a que con las librerias facilita el sacar los resultados e ir trabajando con ellos al ser variables.
 
+![1686800623868](image/README/1686800623868.png)
+
+![1686800662281](image/README/1686800662281.png)
+
+
+Ejercicio 2:
+
+Un objeto se lanza con una velocidad inicial de 25 m/s a un ángulo de inclinación de 30 grados respecto a la horizontal. Queremos determinar la altura máxima alcanzada y el tiempo de vuelo.
+
+Desarrolo (Con el codigo):
+
+![1686800761193](image/README/1686800761193.png)
+
+![1686800782738](image/README/1686800782738.png)
+
+
 Codigo(explicación);
 
 1. Importación de librerias: Se importan las librerias necesarias, incluyendo `math` para funciones matemáticas, `numpy` para cálculos numéricos y `matplotlib.pyplot` para visualización de gráficas(Generar la ventana con el plano cartesiano).
