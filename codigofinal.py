@@ -22,6 +22,8 @@ angulo_rad = np.radians(angulo)
 # Constante de gravedad
 g = 9.81
 
+
+
 # Cálculo de los parámetros de la trayectoria
 # Se utilizan las ecuaciones de la física para calcular los parámetros del movimiento parabólico.
 a = tan(angulo_rad)
